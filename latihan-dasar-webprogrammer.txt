@@ -1,0 +1,5 @@
+#Catatn penting dalam penulisan naskah koding,
+
+1. Harus faham dengan kode penulisan
+2. Harus rapi dan bisa difahami orang lain
+3. Source Code adalah sebuah bahasa pemrograman yang bisa dianalise dan bukan dihafal
